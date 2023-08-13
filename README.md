@@ -24,18 +24,6 @@ The following technologies were used in the work:
 - Nuxt 3
 - Tailwind CSS
 
-## About development
-
-I spent about 11 hours of pure work on the project. At first, I concentrated on creating the necessary functional possibilities, after which I implemented the ones that were not noted (which are more necessary to increase usability). Then once again check everything for work and began to think about the design and its options, but settled on what would be the easiest to adapt to mobile devices and understandable for the user. Created adaptability and uploaded it to GitHub (But checked everything again before sending :)
-
-## More about how it work
-
-add button - through the .push function;
-checkbox state - when the value changes, it calls the function of saving to localStorage;
-change button - the first button enters all the values ​​in the fields, and the confirmation button finds the necessary task that need changing by ID and fills in the values ​​from the fields;
-change button - through the .filter function by passed ID;
-delete all task button - through the .confirm function with on confirm calls function ClearAllTasks that clears all task in array and in localStorage by .removeItem function;
-
 ## Setup
 
 Make sure to install the dependencies:
@@ -59,4 +47,17 @@ pnpm run dev
 # yarn
 yarn dev
 ```
+
+## About development
+
+I spent about 11 hours of pure work on the project. At first, I concentrated on creating the necessary functional possibilities, after which I implemented the ones that were not noted (which are more necessary to increase usability). Then once again check everything for work and began to think about the design and its options, but settled on what would be the easiest to adapt to mobile devices and understandable for the user. Created adaptability and uploaded it to GitHub (But checked everything again before sending :)
+
+## More about how it work
+
+- add button - through the .push function;
+- checkbox state - when the value changes, it calls the function of saving to localStorage;
+- change button - the first button enters all the values ​​in the fields, and the confirmation button finds the necessary task that need changing by ID and fills in the values ​​from the fields;
+- change button - through the .filter function by passed ID;
+- delete all task button - through the .confirm function with on confirm calls function ClearAllTasks that clears all task in array and in localStorage by .removeItem function;
+
 Thank you for reviewing my application!
