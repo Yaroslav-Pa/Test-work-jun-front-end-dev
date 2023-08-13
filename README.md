@@ -1,6 +1,6 @@
 # Test task Junior Vue.js developer
 
-Hi! I am a beginner web developer with little experience on real projects (4 months). My knowledge is mainly focused on the front-end part, but I also know how to manage the back-end part. Thank you for reviewing my application. More information about my knowledge and me in general in my resume.
+Hi! I am a beginner web developer with little experience on real projects (4 months). My knowledge is mainly focused on the front-end part, but I also know how to manage the back-end part. More information about my knowledge and me in general in my resume.
 
 For the this task, the following was created:
 
@@ -59,3 +59,4 @@ pnpm run dev
 # yarn
 yarn dev
 ```
+Thank you for reviewing my application!
