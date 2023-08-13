@@ -50,7 +50,7 @@ yarn dev
 
 ## About development
 
-I spent about 11 hours on the project. At first, I concentrated on creating the necessary functional possibilities, after which I implemented the ones that were not noted (which are more necessary to increase usability). Then once again check everything for work and began to think about the design and its options, but settled on what would be the easiest to adapt to mobile devices and understandable for the user. Created adaptability and uploaded it to GitHub (But checked everything again before sending :)
+I spent about 11 hours on the project. At first, I concentrated on creating the necessary functional possibilities, after which I implemented the ones that were not noted (which are more necessary to increase usability). Then once again check everything for work and began to think about the design and its options, but settled on what would be the easiest to adapt to mobile devices and understandable for the user. Created adaptability and uploaded it to GitHub (But checked everything again before sending :). It was a good project to remember the forgotten, it was also interesting to think about the most user-friendly interface.
 
 ## More about how it work
 
